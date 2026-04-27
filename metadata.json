@@ -1,0 +1,7 @@
+{
+  "name": "Zoya Assistant",
+  "description": "A visually stunning, cinematic voice assistant named Zoya. She is witty, sassy, and speaks Hinglish.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
